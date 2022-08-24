@@ -1,0 +1,33 @@
+{
+  "name": "@arale/components",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Raymond Mao <563822080@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "types": "es/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib",
+    "es"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0"
+  },
+  "dependencies": {
+    "@arale/assets": "1.0.0",
+    "@arale/utils": "1.0.0",
+    "react-bootstrap": "^2.5.0"
+  }
+}

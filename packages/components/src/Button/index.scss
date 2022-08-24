@@ -1,0 +1,16 @@
+@import '@arale/assets/src/scss/variables.scss';
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  padding: 2px 1rem 0;
+  color: red;
+  background-color: $white_off_600;
+  border: 0;
+  border-radius: 0.5rem;
+  &:focus {
+    outline: none;
+  }
+}
