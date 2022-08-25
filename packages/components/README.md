@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const components = require('@arale/components');
+const components = require('@arale-ui/components');
 
 // TODO: DEMONSTRATE API
 ```

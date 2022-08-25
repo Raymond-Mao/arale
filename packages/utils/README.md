@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const utils = require('@arale/utils');
+const utils = require('@arale-ui/utils');
 
 // TODO: DEMONSTRATE API
 ```

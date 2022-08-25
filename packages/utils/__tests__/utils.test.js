@@ -2,6 +2,6 @@
 
 const utils = require('..');
 
-describe('@arale/utils', () => {
+describe('@arale-ui/utils', () => {
   it('needs tests');
 });

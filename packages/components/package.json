@@ -1,5 +1,5 @@
 {
-  "name": "@arale/components",
+  "name": "@arale-ui/components",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Raymond Mao <563822080@qq.com>",
@@ -26,8 +26,8 @@
     "react-dom": ">=16.9.0"
   },
   "dependencies": {
-    "@arale/assets": "1.0.0",
-    "@arale/utils": "1.0.0",
+    "@arale-ui/assets": "1.0.0",
+    "@arale-ui/utils": "1.0.0",
     "react-bootstrap": "^2.5.0"
   }
 }
