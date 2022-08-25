@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Raymond Mao <563822080@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/Raymond-Mao/arale-ui#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -28,6 +28,14 @@
   "dependencies": {
     "@arale-ui/assets": "1.0.0",
     "@arale-ui/utils": "1.0.0",
-    "react-bootstrap": "^2.5.0"
+    "react-bootstrap": "^2.5.0",
+    "sass": "^1.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raymond-Mao/arale-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raymond-Mao/arale-ui/issues"
   }
 }

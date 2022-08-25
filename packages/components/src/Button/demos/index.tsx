@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from '@arale/components';
+import { Button } from '@arale-ui/components';
 
 const ButtonBasic = () => {
   return (

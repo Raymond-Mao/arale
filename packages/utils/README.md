@@ -1,4 +1,4 @@
-# `@arale/utils`
+# `@arale-ui/utils`
 
 > TODO: description
 
