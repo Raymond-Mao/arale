@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/Raymond-Mao/arale-ui/compare/@arale-ui/components@1.1.0...@arale-ui/components@1.2.0) (2022-08-26)
+
+### Features
+
+- remove assets packages ([3332553](https://github.com/Raymond-Mao/arale-ui/commit/333255332c5ea9e43c704562d5f3d308f390beba))
+
 # 1.1.0 (2022-08-25)
 
 ### Features
